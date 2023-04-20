@@ -1,2 +1,2 @@
-rootProject.name='RecyclerViewExample'
+rootProject.name='UsedCarDealer'
 include ':app'
